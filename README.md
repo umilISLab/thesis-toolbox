@@ -1,2 +1,7 @@
 # thesis-toolbox
-A curated collection of resources to support students as they begin their thesis journey. This repository offers guides on key skills like literature review, academic writing, and research methodologies, with plans to expand as new materials become available.
+Welcome to **thesis-toolbox**, a dedicated repository aimed at supporting students as they embark on the thesis journey. Currently, this repository includes two foundational guides:
+
+- 📘 **Guide to Reading Academic Papers**: Practical advice for efficiently and critically reviewing academic literature, tailored to support a robust literature review.
+- 📝 **Guide to Writing an Experimental/Research Thesis**: A comprehensive outline for structuring, drafting, and refining a research-focused thesis.
+
+These resources serve as a starting point, offering essential insights for understanding and engaging with academic research. **thesis-toolbox** is designed with future expansion in mind; additional resources, templates, and tools will be added over time to cover other key aspects of the thesis-writing process. We hope this collection grows into a comprehensive resource that will assist students at every stage of their thesis work.
