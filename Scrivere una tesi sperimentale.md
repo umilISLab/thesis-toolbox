@@ -1,6 +1,6 @@
 # Scrivere una tesi sperimentale
 
-by Elisabetta Rocchetti
+by Elisabetta Rocchetti (elisabetta.rocchetti@unimi.it)
 
 Questa guida fornisce una serie di indicazioni pratiche e consigli su come affrontare la scrittura di una tesi, dalla revisione della letteratura alla discussione dei risultati. Pensata per tesisti, la guida copre le diverse sezioni che compongono un lavoro di ricerca, delineando le buone pratiche per ogni fase e offrendo suggerimenti concreti per migliorare la chiarezza, la struttura e la qualità complessiva del testo.
 
