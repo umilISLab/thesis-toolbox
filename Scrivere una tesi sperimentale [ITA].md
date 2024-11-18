@@ -148,6 +148,38 @@ Un aspetto importante è assicurarsi che i campi di ogni riferimento nel file Bi
 
 Nel caso utilizzassi Word, usa LateX con Overleaf.
 
+## Formattazione della bibliografia
+Controlla che i campi estratti dal BibTeX producano un risultato simile a quello mostrato in seguito. Se così non fosse, potrebbe mancarne qualcuno e in tal caso è necessario correggere o integrare la citazione.
+
+Ecco qualche esempio di come dovrebbero apparire le referenze nella bibliografia. Inoltre, [questo](https://www.scribbr.com/citing-sources/citation-example/) sito contiene degli esempi utili e differenziati a seconda dello stile di citazione adottato.
+
+### Articoli in proceedings di conferenze
+- Formato:
+Autore, A. A., & Autore, B. B. (Anno). Titolo dell'articolo. In Titolo del volume (pp. pagine). Editore. DOI o URL (se disponibile)
+
+- Esempio:
+Rossi, M., & Bianchi, G. (2023). Intelligent systems for AI literacy. In Proceedings of the European Conference on AI Education (pp. 45–50). Springer. https://doi.org/10.1007/example
+
+### Articoli in riviste scientifiche
+- Formato:
+Autore, A. A., & Autore, B. B. (Anno). Titolo dell'articolo. Nome della rivista, volume(numero), pagine. DOI
+
+- Esempio:
+Rossi, M., & Bianchi, G. (2023). AI literacy in schools. Journal of AI Education, 12(3), 123–130. https://doi.org/10.1234/jai.2023.56789
+
+### Libri
+- Formato:
+Autore, A. A., & Autore, B. B. (Anno). Titolo del libro. Editore. DOI o URL (se disponibile)
+
+- Esempio:
+Rossi, M., & Bianchi, G. (2023). Foundations of AI Literacy. Cambridge University Press. https://doi.org/10.1017/example
+
+### Risorse online
+- Formato: Primary contributors. Title Container title, URL. Accessed Date accessed.
+
+- Esempio: Slat, Boyan. “Whales Likely Impacted by Great Pacific Garbage Patch.” The Ocean Cleanup, www.theoceancleanup.com/updates/whales-likely-impacted-by-great-pacific-garbage-patch. Accessed 18 Nov. 2024. 
+ 
+
 # 🤖 Uso di AI generativa per supportare la scrittura della tesi
 
 Non ho nulla contro l’utilizzo dell’AI generativa (genAI) per la scrittura della tesi. Questo strumento può rivelarsi particolarmente utile, soprattutto se non si ha una padronanza madrelingua della lingua in cui si scrive. La revisione tramite strumenti genAI può migliorare la chiarezza e la comprensibilità del testo. Di seguito troverai alcuni consigli su come adottare efficacemente questi strumenti.
