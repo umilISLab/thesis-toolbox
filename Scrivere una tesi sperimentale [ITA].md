@@ -151,7 +151,7 @@ Nel caso utilizzassi Word, usa LateX con Overleaf.
 ## Formattazione della bibliografia
 Controlla che i campi estratti dal BibTeX producano un risultato simile a quello mostrato in seguito. Se così non fosse, potrebbe mancarne qualcuno e in tal caso è necessario correggere o integrare la citazione.
 
-Ecco qualche esempio di come dovrebbero apparire le referenze nella bibliografia. Inoltre, [questo](https://www.scribbr.com/citing-sources/citation-example/) sito contiene degli esempi utili e differenziati a seconda dello stile di citazione adottato.
+Ecco qualche esempio di come dovrebbero apparire le referenze nella bibliografia compilata. Inoltre, [questo](https://www.scribbr.com/citing-sources/citation-example/) sito contiene degli esempi utili e differenziati a seconda dello stile di citazione adottato.
 
 ### Articoli in proceedings di conferenze
 - Formato:
