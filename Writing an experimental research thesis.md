@@ -148,6 +148,32 @@ An important aspect is to make sure that the fields for each reference in the Bi
 
 In case you are using Word, use LateX with Overleaf.
 
+## Bibliography formatting
+Check that the fields extracted from BibTeX produce a result similar to that shown below. If they do not, you may be missing some of them, in which case you need to correct or supplement the citation.
+
+Here are some examples of how references should appear in the compiled bibliography. In addition, [this](https://www.scribbr.com/citing-sources/cite-a-website/) site contains useful examples differentiated according to the citation style adopted.
+
+### Articles in conference proceedings
+- Format: Author, A. A., & Author, B. B. (Year). Article Title. In Volume Title (pp. pages). Publisher. DOI or URL (if available)
+
+- Example: Rossi, M., & Bianchi, G. (2023). Intelligent systems for AI literacy. In Proceedings of the European Conference on AI Education (pp. 45-50). Springer. https://doi.org/10.1007/example
+
+### Articles in journals
+- Format: Author, A. A., & Author, B. B. (Year). Title of article. Name of the journal, volume(number), pages. DOI
+
+- Example: Rossi, M., & Bianchi, G. (2023). AI literacy in schools. Journal of AI Education, 12(3), 123-130. https://doi.org/10.1234/jai.2023.56789
+
+### Books
+- Format: Author, A. A., & Author, B. B. (Year). Book title. Publisher. DOI or URL (if available)
+
+- Example: Rossi, M., & Bianchi, G. (2023). Foundations of AI Literacy. Cambridge University Press. https://doi.org/10.1017/example
+
+### Online resources
+- Format: Primary contributors. Title Container title, URL. Accessed Date accessed.
+
+- Example: Slat, Boyan. “Whales Likely Impacted by Great Pacific Garbage Patch.” The Ocean Cleanup, www.theoceancleanup.com/updates/whales-likely-impacted-by-great-pacific-garbage-patch. Accessed Nov. 18, 2024.
+
+
 # 🤖 Using generative AI to support thesis writing
 
 I have nothing against using generative AI (genAI) for thesis writing. This tool can be particularly useful, especially if you do not have native fluency in the language in which you are writing. Revision using genAI tools can improve the clarity and comprehensibility of the text. Below you will find some tips on how to effectively adopt these tools.
