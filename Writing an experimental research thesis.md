@@ -6,6 +6,26 @@ This guide provides a series of practical hints and tips on how to approach writ
 
 Each section includes methodological tips and stylistic suggestions to help the reader present his or her work effectively. The guide is designed to be consulted both at the dissertation design stage, to plan the work, and during the actual writing process, to assist in the writing and revision process.
 
+# Template and formatting
+You can write your thesis using [**Overleaf**](https://www.overleaf.com/) which is a convenient tool for collaborative writing and compiling **LaTeX** projects.
+<details>
+<summary>What is LaTeX (+ quick guide)?</summary>
+<br>
+LaTeX is a typesetting system used for creating professional documents, especially in academia, that handles complex formatting, mathematical equations, and citations with high precision. It uses plain text markup commands to define document structure and content, which are then compiled into beautifully formatted PDFs.
+
+[Here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) is a quick beginner guide that should suffice for most of the LaTeX writing you will do for your thesis.
+</details>
+
+When you create a project on Overleaf, **share it with your supervisors** using the Share button (top right): in this way, they will be able to review it using comments that appear when clicking on the Review button.
+
+Depending on the programme you are enrolled in, there are specific instructions on which LaTeX template to use for your thesis:
+
+- Master programme in Computer Science: go [here](https://informatica-lm.cdl.unimi.it/en/study/graduating), then scroll down to Other information, and click on the template link on the right side
+- Master programme in Data Science for Economics: go [here](https://dseh.cdl.unimi.it/en/study/graduating) and click on the template link on the right side
+- Bachelor programme(s) in Computer Science: go [here](https://informatica.cdl.unimi.it/it/studiare/laurearsi), then scroll down to Other information, and click on the template link on the right side
+
+**How many pages should you write?** If your programme does not specify any page limit (check on your programme's website!), then I would say that your work should contain 30+ pages.
+
 # 🔍 Introduction
 
 The purpose of this section is to convince the reader of the importance and interest of the topic addressed in the thesis. To do this, it is essential to present the general context (*background*) of the topic addressed. In particular, you should answer questions such as:
